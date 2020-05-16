@@ -1,0 +1,3 @@
+[submodule "FluentMigrator-Fork"]
+	path = FluentMigrator-Fork
+	url = https://github.com/frank-pattyn/FluentMigrator-Fork
